@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.App-logo {
+  height: 12vmin;
+  pointer-events: none;
+  padding: 8px;
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 15vh;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: calc(10px + 4vmin);
+  font-style: italic;
+  color: rgb(51, 7, 7);
+  width: 500px;
+}
+
+.App-link {
+  color: #300f0a;
+}
+
+
